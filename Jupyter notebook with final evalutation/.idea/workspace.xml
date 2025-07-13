@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3683f229-c5a8-4c1d-ae98-8083a013baef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Meta-learning_L_F.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Meta-learning_L_F.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../~$Meta-learning_L_F.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaLearning_ECG_clean.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MetaLearning_ECG_clean.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/leonardofalanga/IoT_Data_Analytics.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/leonardofalanga/IoT-Data_Analytics.git&quot;,
     &quot;accountId&quot;: &quot;e37e1ed9-4a96-45db-92b6-2026ed855657&quot;
   }
 }</component>
@@ -42,6 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/leonardofalanga/Documents/GitHub/IoT-Data_Analytics/Jupyter notebook with final evalutation&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -70,6 +71,9 @@
       <workItem from="1752137616957" duration="2006000" />
       <workItem from="1752139634373" duration="1133000" />
       <workItem from="1752142949809" duration="116000" />
+      <workItem from="1752255821164" duration="94000" />
+      <workItem from="1752384287562" duration="70000" />
+      <workItem from="1752384361058" duration="3000" />
     </task>
     <servers />
   </component>
